@@ -8,3 +8,7 @@
  * plugin uri: https://moeintn.ir
  * requires php: 7.4
  */
+
+
+
+echo "hello world !";
